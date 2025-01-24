@@ -4,18 +4,18 @@
 </h1>
 
 <div  align="center" >
-  - 🔭 Atualmente estou trabalhando como freelancer ...
+  - 🔭 " Sempre olhando para o Topo "
   <br>
-- 🌱 Atualmente estou estudando react, typescript, Tailwind css ...
+- 🌱 Atualmente estou estudando react, react native, typescript, Tailwind css ...
 </div>
 
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <br>
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,typescript" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git,typescript" />
 </div>
 
-<h2 align="center" >⚡Stats⚡</h2>
+<h2 align="center" >⚡Estatísticas⚡</h2>
 <br>
 <div align="center" >
   <picture>
